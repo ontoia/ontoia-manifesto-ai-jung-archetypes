@@ -93,10 +93,11 @@
 **© 2025 Cyrille Guyvarc'h – Tous droits réservés**
 
 Ce document est **strictement protégé par le droit d’auteur**.  
-**Toute reproduction, modification, vente, diffusion ou utilisation commerciale est interdite** sans autorisation écrite préalable.
+**Toute reproduction, modification, vente ou utilisation commerciale est interdite** sans autorisation écrite préalable.
 
 **Autorisé uniquement :**  
-- Lecture personnelle  
+- Lecture personnelle
+- Diffusion
 - Téléchargement pour usage privé  
 - Citation courte avec mention :  
   `© 2025 Cyrille Guyvarc'h – Manifeste OntoIA`
