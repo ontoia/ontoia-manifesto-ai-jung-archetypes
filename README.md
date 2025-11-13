@@ -107,5 +107,5 @@ Texte complet de la licence : [LICENSE](LICENSE)
 
 ---
 
-**Site principal** : [https://ontoia.com](https://ontoia.com)  
+**Site principal** : [https://ontoia.com](https://www.ontoia.com)  
 **Manifeste en ligne
