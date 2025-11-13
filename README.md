@@ -13,7 +13,8 @@
 ## Accès au document
 
 [Télécharger le PDF complet (26 pages)](Manifeste_OntoIA.pdf)  
-[Lire en ligne](https://pages.ontoia.com)
+[Lire en ligne](https://pages.ontoia.com/Manifeste_OntoIA.pdf)
+
 
 ---
 
